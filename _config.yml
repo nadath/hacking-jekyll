@@ -20,18 +20,18 @@ json:
     - Department of Arts
     - 221B Baker St, Neverwhere
   contact:
-    #office: Foobar Hall 1.23
+    office: Foobar Hall 1.23
     phone: +12 3456 7890
     email: username@domain.com
-  art: ""
-  blog: ""
+  art: "https://username.github.io/art"
+  blog: "https://username.github.io/blog"
   profiles:
-    #facebook: https://www.facebook.com
-    #twitter: https://twitter.com
-    #instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com/in/nadianadzair/
-    #stackoverflow: https://stackoverflow.com
-    github: https://github.com/nadath
+    facebook: https://www.facebook.com
+    twitter: https://twitter.com
+    instagram: https://www.instagram.com
+    linkedin: https://www.linkedin.com
+    stackoverflow: https://stackoverflow.com
+    github: https://github.com
 
 exclude:
   - LICENSE
